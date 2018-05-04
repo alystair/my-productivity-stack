@@ -1,13 +1,14 @@
 # workflow
 My current software/hardware stack for optimal workflow. Submit an issue if you have suggestions :)
 
-## Dailys
+## Software
 - [**ClipX**](https://bluemars.org/clipx/) - an ancient clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins.
 - [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - Window manager
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
 - [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
+- [**Notepad++**](https://notepad-plus-plus.org/) - General text/code editor, check [##Development](##development) for my current IDE.
 - [**KeePass 2**](https://keepass.info/) - Password manager (if not using Chrome's)
-- [**Process Explorer**](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - replacement Task Manager for power users.
+- [**Process Explorer**](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Task manager for power users, drop-in replacement.
 - [**Negative Screen**](https://zerowidthjoiner.net/negativescreen) - dim or invert your screen for those late night code sessions
 - [**IrfanView**](https://www.irfanview.com/) - Image viewer, initally released in 1996 and still in active development.
 - [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications
@@ -38,7 +39,7 @@ My current software/hardware stack for optimal workflow. Submit an issue if you 
 - [**DisplayFusion**](https://www.displayfusion.com/) - Advanced wallpaper manager and misc. tweaks
 
 ## Physical
-- Beyerdynamic DT770 Pro headphones - closed reference headphones, been around fore
+- [**Beyerdynamic DT770 Pro**](https://www.beyerdynamic.com) 80ohm headphones - closed reference headphones with soft pads & readily available replacement pads/parts (Beyerdynamic rarely discontinues models unlike brands like Audio Technica).
 - [**Zebra F-701 ballpoint Pen**](https://www.zebrapen.com/product/f-701-ball-point-retractable/)
 - Measuring tape - used way more often than one would think
 - Label printer
