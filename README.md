@@ -1,5 +1,5 @@
-# workflow
-My productivity stack for workflow trancendance. Submit an issue if you have suggestions!
+# My producitvity stack
+My productivity stack for workflow transcendence. Submit an issue if you have suggestions!
 
 ## Software
 - [**ClipX**](https://bluemars.org/clipx/) - Clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins. Development discontinued but works well.
