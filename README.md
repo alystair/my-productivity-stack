@@ -21,7 +21,7 @@ My productivity stack for workflow trancendance. Submit an issue if you have sug
 - [**SpeedFan**](http://www.almico.com/speedfan.php) - Monitors voltages, fan speeds and temperatures
 - [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Hardware identification
 - [**Driver Identifier**](https://www.driveridentifier.com/) - find newer system drivers if absolutely necessary.
-- [**Process Monitor**](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (not Explorer!) - shows real-time file system, registry and process/thread activity. Not for the faint of heart. I recommend the checking out the entire [Sysinternals utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/) index for the various tools.
+- [**Process Monitor**](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - shows real-time file system, registry and process/thread activity. Not for the faint of heart. I recommend the checking out the entire [Sysinternals utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/) index for the various tools.
 
 ## Development
 - [**Visual Studio Code**](https://code.visualstudio.com/) - IDE
