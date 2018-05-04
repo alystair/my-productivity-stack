@@ -5,18 +5,20 @@ My current application stack for optimal workflow under Windows
 - [**ClipX**](https://bluemars.org/clipx/) - an ancient clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins.
 - [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - Window manager
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
-- [**Greenshot**](http://getgreenshot.org/) - screenshot tool
+- [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
 - [**KeePass 2**](https://keepass.info/) - Password manager (if not using Chrome's)
 - [**Process Explorer**](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - replacement Task Manager for power users.
 - [**Negative Screen**](https://zerowidthjoiner.net/negativescreen) - dim or invert your screen for those late night code sessions
 - [**IrfanView**](https://www.irfanview.com/) - Image viewer, initally released in 1996 and still in active development.
 - [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications
 - [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk) - advanced file renamer
-- [**LiceCAP**](https://www.cockos.com/licecap/) - Animated screen recording to GIF
-
+- [**LiceCAP**](https://www.cockos.com/licecap/) - Animated screen recording to GIF. I might replace it with, [ScreenToGif](http://www.screentogif.com/).
 
 ## Hardware
 - [**WizTree**](http://antibody-software.com) - Disk space visualizer, stupid fast.
+- [**HWiNFO**](https://hwinfo.com) - Comprehensive hardware analysis/monitoring
+- [**SpeedFan**](http://www.almico.com/speedfan.php) - Monitors voltages, fan speeds and temperatures
+- [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Hardware identification
 - [**Driver Identifier**](https://www.driveridentifier.com/) - find newer system drivers if absolutely necessary.
 - [**Process Monitor**](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (not Explorer!) - shows real-time file system, registry and process/thread activity. Not for the faint of heart. I recommend the checking out the entire [Sysinternals utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/) index for the various tools.
 
@@ -27,8 +29,11 @@ My current application stack for optimal workflow under Windows
 
 ## Personal taste
 - [**Dropbox**](https://winscp.net) - Cloud storage
-- [**Rainmeter**]() - Displays info on desktop. I use it for my [World Clock]() and edited version of [Do I need a Jacket 2.0]()
+- [**MPV**](http://mpv.io) - Media/video player, extremely customizable. Integrates with YTDL.
 - [**XMPlay**](http://support.xmplay.com/) - a tiny sound player, I use it to preview audio and listen to single tracks. Most importantly it plays old school tracker music!
+- [**CDisplayEx**](http://www.cdisplayex.com/) - Image viewer for zip and comics.
+- [**qBittorrent**](https://www.qbittorrent.org) - Extremely customizable torrenting application.
+- [**Rainmeter**](https://www.rainmeter.net/) - Displays info on desktop. I use it for my [World Clock](https://github.com/alystair/rainmeterWorldclock) and edited version of [Do I need a Jacket 2.0]()
 - [**OBS Studio**](https://obsproject.com/) - Streaming and recording software
 - [**DisplayFusion**](https://www.displayfusion.com/) - Advanced wallpaper manager and misc. tweaks
 
@@ -38,4 +43,4 @@ My current application stack for optimal workflow under Windows
 - Label printer
 
 ## Retired
-- [**KatMouse**](http://ehiti.de/katmouse/) - Replaced by DisplayFusions, will probably return to it or WizMouse.
+- [**KatMouse**](http://ehiti.de/katmouse/) - Replaced by DisplayFusions, will probably return to it or [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
