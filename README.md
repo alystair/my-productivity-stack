@@ -1,5 +1,5 @@
 # workflow
-My current application stack for optimal workflow under Windows
+My current software/hardware stack for optimal workflow. Submit an issue if you have suggestions :)
 
 ## Dailys
 - [**ClipX**](https://bluemars.org/clipx/) - an ancient clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins.
@@ -38,6 +38,7 @@ My current application stack for optimal workflow under Windows
 - [**DisplayFusion**](https://www.displayfusion.com/) - Advanced wallpaper manager and misc. tweaks
 
 ## Physical
+- Beyerdynamic DT770 Pro headphones - closed reference headphones, been around fore
 - [**Zebra F-701 ballpoint Pen**](https://www.zebrapen.com/product/f-701-ball-point-retractable/)
 - Measuring tape - used way more often than one would think
 - Label printer
