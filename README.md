@@ -39,6 +39,18 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**OBS Studio**](https://obsproject.com/) - Streaming and recording software
 - [**DisplayFusion**](https://www.displayfusion.com/) - Advanced wallpaper manager and misc. tweaks
 
+## Android
+- True Phone Dialer
+- Accubattery
+- Textra
+- Today Weather
+- Transit
+- WifiAnalyzer
+- Sync for Reddit
+- Solidexplorer file manager
+- Keepass2Android
+- FullContact address book
+
 ## Physical gear
 - **Headphones** - [Beyerdynamic DT770 Pro](https://www.beyerdynamic.com) 80ohm headphones - closed reference headphones with soft pads & readily available replacement pads/parts (Beyerdynamic rarely discontinues models unlike brands like Audio Technica).
 - **Ballpoint pen** - [Zebra F-701 ballpoint Pen](https://www.zebrapen.com/product/f-701-ball-point-retractable/)
