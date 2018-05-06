@@ -16,6 +16,9 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk) - advanced file renamer
 - [**LiceCAP**](https://www.cockos.com/licecap/) - Animated screen recording to GIF. I might replace it with, [ScreenToGif](http://www.screentogif.com/).
 
+#### AutoHotKey Scripts
+- [**Launch Calculator**](Launch%20Calculator.ahk) - allows only a single instance of a calculator to be launched. Bound to calc key.
+
 ## Hardware
 - [**WizTree**](http://antibody-software.com) - Disk space visualizer, stupid fast.
 - [**HWiNFO**](https://hwinfo.com) - Comprehensive hardware analysis/monitoring
