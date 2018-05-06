@@ -1,4 +1,4 @@
-# My producitvity stack
+# My productivity stack
 My productivity stack for workflow transcendence. Submit an issue if you have suggestions!
 
 ## Software
