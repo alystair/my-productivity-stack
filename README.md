@@ -9,6 +9,7 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**Notepad++**](https://notepad-plus-plus.org/) - General text/code editor, check [##Development](#development) for my current IDE.
 - [**KeePass 2**](https://keepass.info/) - Password manager (if not using Chrome's)
 - [**Process Explorer**](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Task manager for power users, drop-in replacement.
+- [**SoundSwitch**](https://github.com/Belphemur/SoundSwitch/) - switch default playing device
 - [**Negative Screen**](https://zerowidthjoiner.net/negativescreen) - dim or invert your screen for those late night code sessions
 - [**IrfanView**](https://www.irfanview.com/) - Image viewer, initally released in 1996 and still in active development.
 - [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications
@@ -60,3 +61,4 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 ## Retired / Looking to replace
 - [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by DisplayFusions, will probably return to it or [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
 - [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page update monitoring program, used it for checking web comics for updates.
+- Change Audio.ahk - replaced by SoundSwitch
