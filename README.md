@@ -12,6 +12,7 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**SoundSwitch**](https://github.com/Belphemur/SoundSwitch/) - switch default playing device
 - [**Negative Screen**](https://zerowidthjoiner.net/negativescreen) - dim or invert your screen for those late night code sessions
 - [**IrfanView**](https://www.irfanview.com/) - Image viewer, initally released in 1996 and still in active development.
+- [**VirtualCloneDrive**](https://www.elby.ch/en/products/vcd.html) (Windows 7) - Load ISO files directly, newer versions of Windows have this built-in.
 - [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications
 - [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk) - advanced file renamer
 - [**LiceCAP**](https://www.cockos.com/licecap/) - Animated screen recording to GIF. I might replace it with, [ScreenToGif](http://www.screentogif.com/).
@@ -43,6 +44,13 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**OBS Studio**](https://obsproject.com/) - Streaming and recording software
 - [**DisplayFusion**](https://www.displayfusion.com/) - Advanced wallpaper manager and misc. tweaks
 
+## Retired / Looking to replace
+- [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by DisplayFusions, will probably return to it or [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
+- [**iRotate**](https://www.entechtaiwan.com/util/irotate.shtm) - Screen rotation hotkeys. I now have two monitors in both portrait & landscape, so I have no need for it anymore.
+- [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page update monitoring program, used it for checking web comics for updates. Likely to be replaced by a Chrome extension.
+- [**MediaMonkey**](http://www.mediamonkey.com/) - Absolutely incredible media library software. Highly customizable. When my media disks and backup failed catastrophically years ago I never had the time to get things back in order. Maybe I will someday, I enjoyed rating music I listened to on a 0-5 scale which online services can't do.
+- Change Audio.ahk - replaced by SoundSwitch
+
 ## Android
 - True Phone Dialer
 - Accubattery
@@ -60,8 +68,4 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - **Ballpoint pen** - [Zebra F-701 ballpoint Pen](https://www.zebrapen.com/product/f-701-ball-point-retractable/)
 - **Measuring tape** - Used way more often than one would think!
 - **Label printer** - [Dymo](http://www.dymo.com) LabelWriter
-
-## Retired / Looking to replace
-- [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by DisplayFusions, will probably return to it or [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
-- [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page update monitoring program, used it for checking web comics for updates.
-- Change Audio.ahk - replaced by SoundSwitch
+- **Monitors** - one in landscape, another in in portrait. You can't go wrong with Dell.
