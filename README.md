@@ -20,7 +20,7 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 #### AutoHotKey Scripts
 - [**Launch Calculator**](Launch%20Calculator.ahk) - allows only a single instance of a calculator to be launched. Bound to calc key.
 
-## Hardware
+## Support/Diagnostic
 - [**WizTree**](http://antibody-software.com) - Disk space visualizer, stupid fast.
 - [**HWiNFO**](https://hwinfo.com) - Comprehensive hardware analysis/monitoring
 - [**SpeedFan**](http://www.almico.com/speedfan.php) - Monitors voltages, fan speeds and temperatures
@@ -49,7 +49,7 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**iRotate**](https://www.entechtaiwan.com/util/irotate.shtm) - Screen rotation hotkeys. I now have two monitors in both portrait & landscape, so I have no need for it anymore.
 - [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page update monitoring program, used it for checking web comics for updates. Likely to be replaced by a Chrome extension.
 - [**MediaMonkey**](http://www.mediamonkey.com/) - Absolutely incredible media library software. Highly customizable. When my media disks and backup failed catastrophically years ago I never had the time to get things back in order. Maybe I will someday, I enjoyed rating music I listened to on a 0-5 scale which online services can't do.
-- Change Audio.ahk - replaced by SoundSwitch
+- [~~**Change Audio.ahk**~~](https://github.com/alystair/my-productivity-stack/blob/master/Change%20Audio.ahk) - replaced by SoundSwitch. Don't use it.
 
 ## Android
 - True Phone Dialer
