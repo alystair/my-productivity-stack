@@ -1,5 +1,5 @@
 # My productivity stack
-My productivity stack for workflow transcendence. 
+My productivity stack for workflow transcendence. Ordered by blend of usage/usefulness.
 
 Have suggestions? Submit an issue, especially for the following: general file explorer, SFTP client.
 
@@ -9,7 +9,7 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
 - [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
 - [**Notepad++**](https://notepad-plus-plus.org/) - General text/code editor, check [##Development](#development) for my current IDE.
-- [**KeePass 2**](https://keepass.info/) - Password manager (if not using Chrome's)
+- [**KeePass 2**](https://keepass.info/) - Password/private data manager (if not using Chrome's)
 - [**Process Explorer**](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Task manager for power users, drop-in replacement.
 - [**SoundSwitch**](https://github.com/Belphemur/SoundSwitch/) - switch default playing device
 - [**Negative Screen**](https://zerowidthjoiner.net/negativescreen) - dim or invert your screen for those late night code sessions
@@ -53,16 +53,18 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 - [**MediaMonkey**](http://www.mediamonkey.com/) - Absolutely incredible media library software. Highly customizable. When my media disks and backup failed catastrophically years ago I never had the time to get things back in order. Maybe I will someday, I enjoyed rating music I listened to on a 0-5 scale which online services can't do.
 
 ## Android
-- True Phone Dialer
-- Accubattery
-- Textra
-- Today Weather
-- Transit
-- WifiAnalyzer
-- Sync for Reddit
-- Solidexplorer file manager
-- Keepass2Android
-- FullContact address book
+- [Blackberry Hub](https://play.google.com/store/apps/details?id=com.blackberry.hub) / [Calendar](https://play.google.com/store/apps/details?id=com.blackberry.calendar) / [Contacts](https://play.google.com/store/apps/details?id=com.blackberry.contacts)
+- [Today Weather](https://play.google.com/store/apps/details?id=mobi.lockdown.weather) - passive weather status in status bar, notifications, etc.
+- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) - Reddit client
+- [Textra](https://play.google.com/store/apps/details?id=com.textra) - SMS/Texting
+- [True Phone Dialer](https://play.google.com/store/apps/details?id=com.hb.dialer.free) - phone
+- [Transit](https://play.google.com/store/apps/details?id=com.thetransitapp.droid) - public transit/on-foot directions
+- [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) - active/passive screen hue control
+- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+- [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) - file/cloud manager
+- [FullContact Address Book](https://play.google.com/store/apps/details?id=com.fullcontact.ledene) - for business
+- [Accubattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery)
+- [WifiAnalyzer](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer)
 
 ## Physical gear
 - **Headphones** - [Beyerdynamic DT770 Pro](https://www.beyerdynamic.com) 80ohm headphones - closed reference headphones with soft pads & readily available replacement pads/parts (Beyerdynamic rarely discontinues models unlike brands like Audio Technica).
