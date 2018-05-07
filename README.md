@@ -1,5 +1,7 @@
 # My productivity stack
-My productivity stack for workflow transcendence. Submit an issue if you have suggestions!
+My productivity stack for workflow transcendence. 
+
+Have suggestions? Submit an issue, especially for the following: general file explorer, SFTP client.
 
 ## Software
 - [**ClipX**](https://bluemars.org/clipx/) - Clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins. Development discontinued but works well.
@@ -15,7 +17,7 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**VirtualCloneDrive**](https://www.elby.ch/en/products/vcd.html) (Windows 7) - Load ISO files directly, newer versions of Windows have this built-in.
 - [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications
 - [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk) - advanced file renamer
-- [**LiceCAP**](https://www.cockos.com/licecap/) - Animated screen recording to GIF. I might replace it with, [ScreenToGif](http://www.screentogif.com/).
+- [**LiceCAP**](https://www.cockos.com/licecap/) - Animated screen recording to GIF. Alternatively - [ScreenToGif](http://www.screentogif.com/).
 
 #### [AutoHotKey](https://autohotkey.com/) Scripts
 - [**Launch Calculator**](Launch%20Calculator.ahk) - allows only a single instance of a calculator to be launched. Bound to calc key.
@@ -40,16 +42,15 @@ My productivity stack for workflow transcendence. Submit an issue if you have su
 - [**XMPlay**](http://support.xmplay.com/) - a tiny sound player, I use it to preview audio and listen to single tracks. Most importantly it plays old school tracker music!
 - [**CDisplayEx**](http://www.cdisplayex.com/) - Image viewer for zip and comics.
 - [**qBittorrent**](https://www.qbittorrent.org) - Extremely customizable torrenting application.
-- [**Rainmeter**](https://www.rainmeter.net/) - Displays info on desktop. I use it for my [World Clock](https://github.com/alystair/rainmeterWorldclock) and edited version of [Do I need a Jacket 2.0]()
+- [**Rainmeter**](https://www.rainmeter.net/) - Displays info on desktop. I use it for my [World Clock](https://github.com/alystair/rainmeterWorldclock) and edited version of [Do I need a Jacket 2.0](https://flyinghyrax.deviantart.com/art/Do-I-Need-a-Jacket-2-0-beta-2016-04-10-494721790)
 - [**OBS Studio**](https://obsproject.com/) - Streaming and recording software
 - [**DisplayFusion**](https://www.displayfusion.com/) - Advanced wallpaper manager and misc. tweaks
 
-## Retired / Looking to replace
+## Retired
 - [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by DisplayFusions, will probably return to it or [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
 - [**iRotate**](https://www.entechtaiwan.com/util/irotate.shtm) - Screen rotation hotkeys. I now have two monitors in both portrait & landscape, so I have no need for it anymore.
 - [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page update monitoring program, used it for checking web comics for updates. Likely to be replaced by a Chrome extension.
 - [**MediaMonkey**](http://www.mediamonkey.com/) - Absolutely incredible media library software. Highly customizable. When my media disks and backup failed catastrophically years ago I never had the time to get things back in order. Maybe I will someday, I enjoyed rating music I listened to on a 0-5 scale which online services can't do.
-- [~~**Change Audio.ahk**~~](https://github.com/alystair/my-productivity-stack/blob/master/Change%20Audio.ahk) - replaced by SoundSwitch. Don't use it.
 
 ## Android
 - True Phone Dialer
