@@ -29,6 +29,7 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 - [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Hardware identification
 - [**Driver Identifier**](https://www.driveridentifier.com/) - find newer system drivers if absolutely necessary.
 - [**Process Monitor**](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - shows real-time file system, registry and process/thread activity. Not for the faint of heart. I recommend the checking out the entire [Sysinternals utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/) index for the various tools.
+- [**Device Cleanup Tool**](https://www.uwe-sieber.de/misc_tools_e.html) - Remove non-present devices from Windows Device management
 
 ## Development
 - [**Visual Studio Code**](https://code.visualstudio.com/) - IDE
