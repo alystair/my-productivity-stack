@@ -20,7 +20,7 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 
 #### [AutoHotKey](https://autohotkey.com/) Scripts
 - [**Launch Calculator**](Launch%20Calculator.ahk) - allows only a single instance of a calculator to be launched. Bound to calc key.
-- ~~**Audio Switcher**~~ - replaced by SoundSwitch. File still available for reference.
+- [~~**Audio Switcher**~~](Change%20Audio.ahk) - replaced by SoundSwitch. File still available for reference.
 
 ## Media / Creation
 - [**XMPlay**](http://support.xmplay.com/) - Audio player, I use it to preview sounds and listen to single tracks. Most importantly it plays [old school tracker music](https://modarchive.org)!
