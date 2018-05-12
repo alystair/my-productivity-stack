@@ -23,7 +23,7 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 - [~~**Audio Switcher**~~](Change%20Audio.ahk) - replaced by SoundSwitch. File still available for reference.
 
 ## Media / Creation
-- [**XMPlay**](http://support.xmplay.com/) - Audio player, I use it to preview sounds and listen to single tracks. Most importantly it plays [old school tracker music](https://modarchive.org)!
+- [**XMPlay**](http://support.xmplay.com/) - Tiny audio player. Also [grab this skin](http://support.xmplay.com/files_view.php?file_id=557) because the default design is very ugly. It plays [old school tracker music](https://modarchive.org) and has plugins for game console sound files! 
 - [**MPV**](http://mpv.io) - Media/video player, extremely customizable. Integrates with YoutubeDL.
 - [**Adobe Fireworks**](https://www.adobe.com/ca/products/fireworks.html) - Discontinued bitmap/vector editing tool. The ultimate compromise between Photoshop and Illustrator.
 - [**Adobe Audition**](https://www.audacityteam.org) - Defacto in audio editing/recording.
