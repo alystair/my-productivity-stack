@@ -77,7 +77,7 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 
 ## Retired
 - [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
-- [**ScreenToGif**](http://www.screentogif.com/) - replaced by LiceCAP.
+- [**ScreenToGif**](http://www.screentogif.com/) - replaced by LiceCAP. Editor UI is nice but the exported gifs are large.
 - [**DisplayFusion**](https://www.displayfusion.com/) - Advanced wallpaper manager and misc. tweaks. No longer change my wallpaper that much, although I do rarely use it to generate multi-monitor wallpaper.
 - [**iRotate**](https://www.entechtaiwan.com/util/irotate.shtm) - Screen rotation hotkeys. I now have two monitors in both portrait & landscape, so I have no need for it anymore.
 - [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page monitoring program, used it for checking web comics for updates. Likely to be replaced by a Chrome extension.
