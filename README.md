@@ -70,6 +70,7 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 
 ## Physical gear
 - **Headphones** - [Beyerdynamic DT770 Pro](https://www.beyerdynamic.com) 80ohm headphones - closed reference headphones with soft pads & readily available replacement pads/parts (Beyerdynamic rarely discontinues models unlike brands like Audio Technica).
+- **Mouse** - [SteelSeries Rival 500](https://steelseries.com/gaming-mice/rival-500). Oodles of physical buttons and doesn't compromise ergonomics. [See my detailed review here.](https://www.reddit.com/r/MouseReview/comments/8jddq0/steelseries_rival_500_review_compared_to_logitech/) This mouse retired my Logitech G502 in May 2018.
 - **Ballpoint pen** - [Zebra F-701 ballpoint Pen](https://www.zebrapen.com/product/f-701-ball-point-retractable/)
 - **Measuring tape** - Used way more often than one would think!
 - **Label printer** - [Dymo](http://www.dymo.com) LabelWriter
