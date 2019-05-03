@@ -6,6 +6,7 @@ Have suggestions? Submit an issue, especially for the following: general file ex
 ## Software
 - [**ClipX**](https://bluemars.org/clipx/) - Clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins. Development discontinued but works well.
 - [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - Tiling window manager. Snap, dock & tile windows. 
+- [**sWeather**](http://www.dcmembers.com/skwire/download/sweather/) - Taskbar weather reporting via Yahoo, no fuss with plenty of customization options.
 - [**WizMouse**](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/) (Win 7) - Allows mouse wheel to work on window under the cursor, even if it's out of focus.
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
 - [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
