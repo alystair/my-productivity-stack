@@ -75,11 +75,12 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 ## Physical gear
 - **Headphones** - [Beyerdynamic DT770 Pro](https://www.beyerdynamic.com) 80ohm headphones - closed reference headphones with soft pads & readily available replacement pads/parts (Beyerdynamic rarely discontinues models unlike brands like Audio Technica).
 - **Mouse** - [SteelSeries Rival 500](https://steelseries.com/gaming-mice/rival-500). Oodles of physical buttons and doesn't compromise ergonomics. [See my detailed review here.](https://www.reddit.com/r/MouseReview/comments/8jddq0/steelseries_rival_500_review_compared_to_logitech/) This mouse retired my Logitech G502 in May 2018.
-- **Keyboard** Wireless Logitech K520 (comes as combo with mouse which I never use). Practically placed media keys and pretty cheap.  
 - **Ballpoint pen** - [Zebra F-701 ballpoint Pen](https://www.zebrapen.com/product/f-701-ball-point-retractable/)
 - **Measuring tape** - Used way more often than one would think!
-- **Label printer** - [Dymo](http://www.dymo.com) LabelWriter
+- **Label printer** - [Dymo](http://www.dymo.com) LabelWriter, any model is fine.
 - **Monitors** - one in landscape, another in in portrait. Can't go wrong with Dell.
+- **Keyboard** - Wireless Logitech K520 (comes as combo with mouse which I never use). Practically placed media keys and pretty cheap. 
+- **Bluetooth earbuds** - Anker SoundBuds Slim with custom eartips. Cheap, good frequency response and isolation. 
 
 ## Retired
 - [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
