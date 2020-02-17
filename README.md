@@ -8,7 +8,6 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
 - [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - Tiling window manager. Snap, dock & tile windows. 
 - [**sWeather**](http://www.dcmembers.com/skwire/download/sweather/) - Taskbar weather reporting, no fuss with plenty of customization options.
-- [**WizMouse**](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/) (Windows 7) - Allows mouse wheel to work on window under the cursor, even if it's out of focus.
 - [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
 - [**Notepad++**](https://notepad-plus-plus.org/) - General text/code editor, check [##Development](#development) for my current IDE.
 - [**KeePass 2**](https://keepass.info/) - Password/private data manager (if not using Chrome's)
@@ -38,7 +37,6 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications, to be retired once built-in sandboxing is added to Windows 10.
 - [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Hardware identification
 - [**Driver Identifier**](https://www.driveridentifier.com/) - find newer system drivers if absolutely necessary.
-- [**VirtualCloneDrive**](https://www.elby.ch/en/products/vcd.html) (Windows 7) - Load ISO files directly, newer versions of Windows have this built-in.
 - [**Process Monitor**](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - shows real-time file system, registry and process/thread activity. Not for the faint of heart. I recommend the checking out the entire [Sysinternals utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/) index for the various tools.
 - [**Device Cleanup Tool**](https://www.uwe-sieber.de/misc_tools_e.html) - Remove non-present devices from Windows Device management
 
@@ -68,7 +66,6 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) - active/passive screen hue control
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
 - [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) - file/cloud manager
-- [FullContact Address Book](https://play.google.com/store/apps/details?id=com.fullcontact.ledene) - for business
 - [Accubattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery)
 - [WifiAnalyzer](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer)
 
@@ -82,6 +79,10 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - **Keyboard** - Wireless Logitech K520 (comes as combo with mouse which I never use). Practically placed media keys and pretty cheap. 
 - **Bluetooth earbuds** - Anker SoundBuds Slim with custom eartips. Cheap, good frequency response and isolation. 
 
+## Windows 7 only
+- [**WizMouse**](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/) - Allows mouse wheel to work on window under the cursor, even if it's out of focus.
+- [**VirtualCloneDrive**](https://www.elby.ch/en/products/vcd.html) - Load ISO files directly, newer versions of Windows have this built-in.
+
 ## Retired
 - [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
 - [**SpeedFan**](http://www.almico.com/speedfan.php) - Monitors voltages, fan speeds and temperatures and check drive SMART status. Not updated actively so it has been mostly replaced by HWInfo
@@ -90,3 +91,4 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**iRotate**](https://www.entechtaiwan.com/util/irotate.shtm) - Screen rotation hotkeys. I now have two monitors in both portrait & landscape, so I have no need for it anymore.
 - [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page monitoring program, used it for checking web comics for updates. Likely to be replaced by a Chrome extension.
 - [**MediaMonkey**](http://www.mediamonkey.com/) - Absolutely incredible media library software. Highly customizable. When my media disks and backup failed catastrophically years ago I never had the time to get things back in order. Maybe I will someday, I enjoyed rating music I listened to on a 0-5 scale which online services can't do.
+- [FullContact Address Book](https://play.google.com/store/apps/details?id=com.fullcontact.ledene) - Android contact manager, now crapware. Avoid.
