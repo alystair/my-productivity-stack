@@ -91,4 +91,4 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**iRotate**](https://www.entechtaiwan.com/util/irotate.shtm) - Screen rotation hotkeys. I now have two monitors in both portrait & landscape, so I have no need for it anymore.
 - [**WebMon**](https://alternativeto.net/software/webmon/) - discontinued web page monitoring program, used it for checking web comics for updates. Likely to be replaced by a Chrome extension.
 - [**MediaMonkey**](http://www.mediamonkey.com/) - Absolutely incredible media library software. Highly customizable. When my media disks and backup failed catastrophically years ago I never had the time to get things back in order. Maybe I will someday, I enjoyed rating music I listened to on a 0-5 scale which online services can't do.
-- FullContact Address Book - Android contact manager, now crapware. Avoid.
+- **FullContact Address Book** - Android contact manager, now crapware. Avoid.
