@@ -1,5 +1,6 @@
 ; Lorin's single instance Calculator launcher
 ; Replaces default calculator key functionality on keyboard
+Launch_App2::
 IfWinNotExist Calculator
 {
 	Run calc.exe
@@ -8,3 +9,4 @@ IfWinNotExist Calculator
 	WinActivate Calculator
 }
 Else WinActivate Calculator
+return
