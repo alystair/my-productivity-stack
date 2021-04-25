@@ -1,5 +1,5 @@
 # My productivity stack
-My productivity stack for workflow transcendence. Ordered by blend of most personally usage/usefulness.
+My productivity stack for workflow transcendence. Ordered by blend of personal usage/general usefulness.
 
 Have suggestions or alternatives? Submit an issue, especially for the following: Comic viewer (zips), image viewer, general file explorer, SFTP client, Adobe Fireworks.
 
