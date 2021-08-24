@@ -7,7 +7,7 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**ClipX**](https://bluemars.org/clipx/) - Clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins. Development discontinued many years ago but still works *extremely* well and beats Window 10's built-in clipboard manager.
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
 - [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - Tiling window manager. Snap, dock & tile windows. 
-- [**sWeather**](http://www.dcmembers.com/skwire/download/sweather/) - Taskbar weather reporting, no fuss with plenty of customization options.
+- [**TrayWeather**](https://github.com/FelixdelasPozas/TrayWeather) - Taskbar weather reporting, no fuss with some customization.
 - [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
 - [**Notepad++**](https://notepad-plus-plus.org/) - General text/code editor, check [##Development](#development) for my current IDE.
 - [**KeePass 2**](https://keepass.info/) - Password/private data manager (if not using Chrome's)
@@ -83,6 +83,7 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**VirtualCloneDrive**](https://www.elby.ch/en/products/vcd.html) - Load ISO files directly, newer versions of Windows have this built-in.
 
 ## Retired
+- [**sWeather**](http://www.dcmembers.com/skwire/download/sweather/) - replaced by TrayWeather. Data source no longer exists. Weather reporting, no fuss with plenty of customization options. Pre-dates Win 10's broken mess by at least 8 years :P
 - [**Audio Switcher**](Change%20Audio.ahk) - replaced by SoundSwitch. File available for reference.
 - [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
 - **SpeedFan** - Monitors voltages, fan speeds and temperatures and check drive SMART status. Not updated actively so it has been mostly replaced by HWInfo
