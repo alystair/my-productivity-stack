@@ -6,7 +6,6 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 ## Software
 - [**ClipX**](https://bluemars.org/clipx/) - Clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins. Development discontinued many years ago but still works *extremely* well and beats Window 10's built-in clipboard manager.
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
-- [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - Tiling window manager. Snap, dock & tile windows. 
 - [**TrayWeather**](https://github.com/FelixdelasPozas/TrayWeather) - Taskbar weather reporting, no fuss with some customization.
 - [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
 - [**Notepad++**](https://notepad-plus-plus.org/) - General text/code editor, check [##Development](#development) for my current IDE.
@@ -34,26 +33,24 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**WizTree**](http://antibody-software.com) - Disk space visualizer, stupid fast.
 - [**HWiNFO**](https://hwinfo.com) - Comprehensive hardware analysis/monitoring
 - [**Driver Identifier**](https://www.driveridentifier.com/) - find newer system drivers if absolutely necessary.
-- [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications, to be retired once Windows 10 built-in sandboxing UX has improved.
 - [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Hardware identification
 - [**Process Monitor**](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - shows real-time file system, registry and process/thread activity. Not for the faint of heart. I recommend the checking out the entire [Sysinternals utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/) index for the various tools.
 - [**Device Cleanup Tool**](https://www.uwe-sieber.de/misc_tools_e.html) - Remove non-present devices from Windows Device management
 
 ## Development
 - [**Visual Studio Code**](https://code.visualstudio.com/) - IDE
-- [**Cmder**](http://cmder.net) - command prompt manager. Setup in quasi-Quake console mode.
 - [**WinSCP**](https://winscp.net) - SFTP client
 - [**Laravel Valet (Windows port)**](https://github.com/cretueusebiu/valet-windows) - PHP/Laravel development environment.
 
 ## Personal taste
-- [**Dropbox**](https://www.dropbox.com) - Cloud storage, although I'm slowly transitioning to OneDrive/Business because the free version is becoming more and more limited (3 device maximum, constant notification regarding drive being "almost full").
+- [**Dropbox**](https://www.dropbox.com) - Cloud storage, although I'm slowly transitioning to OneDrive/Business because the free version has become limiting (3 device maximum, constant annoying notifications) and it consumes more resources than OneDrive.
 - [**qBittorrent**](https://www.qbittorrent.org) - Extremely customizable torrenting application.
 - [**Rainmeter**](https://www.rainmeter.net/) - Custom desktop widgets. I use it for my [World Clock](https://github.com/alystair/rainmeterWorldclock) and edited version of [Do I need a Jacket 2.0](https://flyinghyrax.deviantart.com/art/Do-I-Need-a-Jacket-2-0-beta-2016-04-10-494721790)
 
 ## Online services
 - [**Spotify Premium**](http://spotify.com) - Music/podcast service. Premium because I hate ads and want to support artists.
 - [**YouTube Premium**](https://www.youtube.com/premium) - I feel legally adblocking and supporting a service is critical to its long term sustainablity... with the drama that is happening on the platform maybe there will be a different option.
-- [**SignNow**](https://www.signnow.com/) - E-signing service, Still with them due to grandfathered pricing, might build my own if I'm forced to pay full price.
+- [**SignNow**](https://www.signnow.com/) - E-signing service, Still with them due to grandfathered pricing, might build my own if forced to pay full price.
 
 ## Android apps
 - [Blackberry Hub](https://play.google.com/store/apps/details?id=com.blackberry.hub) / [Calendar](https://play.google.com/store/apps/details?id=com.blackberry.calendar) / [Contacts](https://play.google.com/store/apps/details?id=com.blackberry.contacts)
@@ -83,6 +80,9 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**VirtualCloneDrive**](https://www.elby.ch/en/products/vcd.html) - Load ISO files directly, newer versions of Windows have this built-in.
 
 ## Retired
+- [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - (Windows 10) Tiling window manager. Snap, dock & tile windows. Windows 11 built-in management is sufficient.
+- [**Cmder**](http://cmder.net) - replaced by Windows Terminal. Command prompt manager. Setup in quasi-Quake console mode.
+- [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications, to be retired once Windows 10 built-in sandboxing UX has improved.
 - [**sWeather**](http://www.dcmembers.com/skwire/download/sweather/) - replaced by TrayWeather. Data source no longer exists. Weather reporting, no fuss with plenty of customization options. Pre-dates Win 10's broken mess by at least 8 years :P
 - [**Audio Switcher**](Change%20Audio.ahk) - replaced by SoundSwitch. File available for reference.
 - [**KatMouse**](http://ehiti.de/katmouse/) - Scroll unfocused windows. Replaced by [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/).
