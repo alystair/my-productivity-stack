@@ -3,32 +3,32 @@ My productivity stack for workflow transcendence. Ordered by blend of personal u
 
 Have suggestions or alternatives? Submit an issue, especially for the following: Comic viewer (zips), image viewer, general file explorer, SFTP client, Adobe Fireworks.
 
+#### My [AutoHotKey](https://autohotkey.com/) Scripts
+- [**Display Blanker**](Display%20Blanker.ahk) - smooth display blanking via custom hotkey toggle for OLED monitors. When you want to leave your computer whilst not using the display. Disables on mouse movement and any keyboard press.
+- [**Launch Calculator**](Launch%20Calculator.ahk) - allows only a single instance of a calculator to be launched. Bound to calc key.
+
 ## Software
-- [**ClipX**](https://bluemars.org/clipx/) - Clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins. Development discontinued many years ago but still works *extremely* well and beats Window 10's built-in clipboard manager.
+- [**ClipX**](https://bluemars.org/clipx/) - Clipboard manager. Add sticky & color picker (grab hex code colors from under mouse) plugins. Development discontinued many years ago but still works *extremely* well and beats Window 11's built-in clipboard manager.
 - [**Everything**](https://www.voidtools.com/) - locate files and folders by name instantly. Totally replaced my use of built-in search.
 - [**TrayWeather**](https://github.com/FelixdelasPozas/TrayWeather) - Taskbar weather reporting, no fuss with some customization.
 - [**Greenshot**](http://getgreenshot.org/) - screenshot power tool, can edit/blur and upload directly to image sharing sites.
-- [**Notepad++**](https://notepad-plus-plus.org/) - General text/code editor, check [##Development](#development) for my current IDE.
-- [**KeePass 2**](https://keepass.info/) - Password/private data manager (if not using Chrome's)
+- [**Notepad++**](https://notepad-plus-plus.org/) - General text/script editor, check [##Development](#development) for my current IDE.
+- [**KeePass 2**](https://keepass.info/) - Password/private data manager (when not using Chrome)
 - [**Process Explorer**](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Task manager for power users, drop-in replacement.
 - [**IrfanView**](https://www.irfanview.com/) - Image viewer, initally released in 1996 and still in active development.
 - [**Negative Screen**](https://zerowidthjoiner.net/negativescreen) - invert or dim your screen for those late night code sessions.
-- [**CDisplayEx**](http://www.cdisplayex.com/) - Image viewer for zip and comics \***WARNING**\* Official installer is full of crapware, you must locate a clean copy elsewhere.
+- **CDisplayEx** - Image viewer for zip and comics \***WARNING**\* Official installer at cdisplayex.com is full of crapware, you must locate a clean copy elsewhere.
 - [**SoundSwitch**](https://github.com/Belphemur/SoundSwitch/) - Multiple audio outputs? Quickly switch default audio devices.
 - [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk) - advanced file renamer
 
-#### [AutoHotKey](https://autohotkey.com/) Scripts
-- [**Display Blanker**](Display%20Blanker.ahk) - smooth display blanking via custom hotkey toggle. Meant for OLED monitors when you wish to leave your computer on won't be using the display. Turns off on mouse movement and any keyboard press.
-- [**Launch Calculator**](Launch%20Calculator.ahk) - allows only a single instance of a calculator to be launched. Bound to calc key.
-
 ## Media / Creation
-- [**MPV**](http://mpv.io) - Media/video player, extremely customizable. Integrated with YoutubeDL for streaming content.
-- [**XMPlay**](http://support.xmplay.com/) - Tiny audio player. Grab [this skin](http://support.xmplay.com/files_view.php?file_id=557) as the default design is ugly. It also plays [old school tracker music](https://modarchive.org) and has plugins for game console sound files!
+- [**MPV**](http://mpv.io) - Media/video player, extremely customizable. Integrated with YT-DLP for streaming content.
+- [**XMPlay**](http://support.xmplay.com/) - Tiny audio player. Grab [this skin](http://support.xmplay.com/files_view.php?file_id=557) as the default design is ugly. It also plays [old school tracker music](https://modarchive.org) and has plugins for old game console audio files!
 - [**Adobe Fireworks**](https://www.adobe.com/ca/products/fireworks.html) - Discontinued bitmap/vector editing tool. The ultimate compromise between Photoshop and Illustrator. RIP Macromedia :(
-- [**Audacity**](https://www.audacityteam.org) - Free & open source multi-track audio editing/recording. Mostly use Adobe Audition.
+- [**Audacity**](https://www.audacityteam.org) - Free & open source multi-track audio editing/recording.
 - [**Adobe Audition**](https://www.audacityteam.org) - Defacto audio editing/recording suite. Spectral editing is quite impressive.
-- [**LiceCAP**](https://www.cockos.com/licecap/) - Customizable screen recording... to animated GIFs! It's output is quite optimal and has beaten all newer competitors so far!
-- [**OBS Studio**](https://obsproject.com/) - Streaming and screen/video recording software, open source.
+- [**LiceCAP**](https://www.cockos.com/licecap/) - Customizable screen recording... to animated GIFs! It's output is quite optimal and has beaten all competitors so far!
+- [**OBS Studio**](https://obsproject.com/) - Streaming and screen/video recording software, open source and ridiculously customizable.
 
 ## Support/Diagnostic
 - [**WizTree**](http://antibody-software.com) - Disk space visualizer, stupid fast.
@@ -44,7 +44,7 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**Laravel Valet (Windows port)**](https://github.com/cretueusebiu/valet-windows) - PHP/Laravel development environment.
 
 ## Personal taste
-- [**Dropbox**](https://www.dropbox.com) - Cloud storage, although I'm slowly transitioning to OneDrive/Business because the free version has become limiting (3 device maximum, constant annoying notifications) and it consumes more resources than OneDrive.
+- [**OneDrive**](https://www.onedrive.com) - Paid business cloud storage, consumes less resources than Dropbox. Wish there was an official way to have ignored folders.
 - [**qBittorrent**](https://www.qbittorrent.org) - Extremely customizable torrenting application.
 - [**Rainmeter**](https://www.rainmeter.net/) - Custom desktop widgets. I use it for my [World Clock](https://github.com/alystair/rainmeterWorldclock) and edited version of [Do I need a Jacket 2.0](https://flyinghyrax.deviantart.com/art/Do-I-Need-a-Jacket-2-0-beta-2016-04-10-494721790)
 
@@ -82,6 +82,7 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 
 ## Retired
 - [**AquaSnap Pro**](https://www.nurgo-software.com/products/aquasnap) - (Windows 10) Tiling window manager. Snap, dock & tile windows. Windows 11 built-in management is sufficient.
+- **Dropbox** - Cloud storage, transitioned away because the free version has become limiting (3 device maximum, constant annoying notifications) and it consumes more resources than OneDrive.
 - [**Cmder**](http://cmder.net) - replaced by Windows Terminal. Command prompt manager. Setup in quasi-Quake console mode.
 - [**Sandboxie**](https://www.sandboxie.com) - Isolate potentially pesky/untrusted applications, to be retired once Windows 10 built-in sandboxing UX has improved.
 - [**sWeather**](http://www.dcmembers.com/skwire/download/sweather/) - replaced by TrayWeather. Data source no longer exists. Weather reporting, no fuss with plenty of customization options. Pre-dates Win 10's broken mess by at least 8 years :P
