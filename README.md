@@ -18,6 +18,7 @@ Have suggestions or alternatives? Submit an issue, especially for the following:
 - [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk) - advanced file renamer
 
 #### [AutoHotKey](https://autohotkey.com/) Scripts
+- [**Display Blanker**](Display%20Blanker.ahk) - smooth display blanking via custom hotkey toggle. Meant for OLED monitors when you wish to leave your computer on won't be using the display. Turns off on mouse movement and any keyboard press.
 - [**Launch Calculator**](Launch%20Calculator.ahk) - allows only a single instance of a calculator to be launched. Bound to calc key.
 
 ## Media / Creation
