@@ -25,7 +25,7 @@ Hotkey, %ToggleKey%, ToggleBlanker
 SendMode Input
 SetWorkingDir %A_ScriptDir%
 
-scriptVersion := "1.0.0"
+scriptVersion := "1.0.1"
 BlankerActive := false
 global priorWindow
 global priorControl
@@ -33,7 +33,7 @@ global priorControl
 Menu, Tray, Tip , Screen Blanker
 Menu, Tray, NoStandard
 Menu, Tray, Add , Blank (key: %ToggleKey%) , ToggleBlanker
-Menu, Tray, icon, Blank (key: %ToggleKey%) , imageres.dll, 195
+Menu, Tray, icon, Blank (key: %ToggleKey%) , shell32.dll, 26 
 Menu, Tray, Add , Version %scriptVersion% , menuWebsite
 Menu, Tray, icon, Version %scriptVersion% , imageres.dll, 195
 Menu, Tray, Add , Reload , menuReload
@@ -78,6 +78,7 @@ DeactivateBlanker:
 	DllCall("UnhookWindowsHookEx", "Uint", KeyboardHook)
 	DllCall("ShowCursor", Int, 1)
 	DllCall("User32\AnimateWindow", "Ptr", hWnd, "Int", 150, "Int", 0x00090000) ; fade out
+	Sleep, 160 ; Needed for fade
 	Gui, BlankWindow:Show, Hide
 	BlankerActive := false
 return
